@@ -1,0 +1,16 @@
+GET http://Localhost:4000/post
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ293cmkiLCJpYXQiOjE2ODIwNjA4MTF9.PoQPS8iBM7N3ct0ge7yutj0oamWKSy76vVLU6P37sQc
+
+###
+
+
+POST http://Localhost:4000/login
+Content-Type: application/json
+
+
+
+{
+    "username" : "gowri"
+}
+
+
