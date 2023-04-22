@@ -44,9 +44,7 @@ function authorization(req, res, next) {
         next();
     })
 }
-console.log('ram');
-console.log('seetha');
-console.log('laxman');
-console.log('Hanuman');
+console.log('siva');
+console.log('parvathi');
 app.listen(4000);
 console.log('hi');
